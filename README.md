@@ -31,7 +31,7 @@ A comprehensive Telegram bot for channel management, user engagement, and referr
 
 ### Quick Installation
 ```bash
-git clone https://github.com/yourusername/telegram-channel-bot.git
-cd telegram-channel-bot
+git clone https://github.com/Mohammad1724/Advertising-robot.git
+cd Advertising-robot
 chmod +x install.sh
 ./install.sh
