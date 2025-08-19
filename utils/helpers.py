@@ -119,4 +119,6 @@ class BotHelpers:
         """Check if user ID is valid"""
         try:
             user_id = int(user_id)
-            return 0 < user_id < 
+            return 0 < user_id < 10**10
+        except:
+            return False
