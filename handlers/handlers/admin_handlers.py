@@ -1,4 +1,4 @@
-from aiogram import types1
+from aiogram import types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from datetime import datetime, timedelta
 import asyncio
